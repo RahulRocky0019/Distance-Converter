@@ -1,47 +1,62 @@
 # Distance Converter
 
-   A simple Python GUI application to convert kilometers to miles.
+A simple Python GUI application to convert kilometers to miles.
 
-   ## Description
+## Description
 
-   This application provides a user-friendly interface for converting distances from kilometers to miles. It's built using Python and the ttkbootstrap library for an enhanced GUI experience.
+This application provides a user-friendly interface for converting distances from kilometers to miles. It's built using Python and the ttkbootstrap library for an enhanced GUI experience.
 
-   ## Features
+## Screenshots
 
-   - Convert kilometers to miles
-   - Clean and modern user interface
-   - Real-time conversion
+Here are two screenshots showcasing the Distance Converter application:
 
-   ## Requirements
+1. Initial State:
 
-   - Python 3.x
-   - ttkbootstrap
+   ![Distance Converter Initial State](images/img1.png)
 
-   ## Installation
+   This shows the application when it's first launched.
 
-   1. Clone this repository:
-      ```
-      git clone https://github.com/yourusername/Distance-Converter.git
-      ```
-   2. Install the required packages:
-      ```
-      pip install ttkbootstrap
-      ```
+2. After Conversion:
 
-   ## Usage
+   ![Distance Converter After Conversion](images/img2.png)
 
-   Run the script:
+   This demonstrates the application after a conversion has been performed.
+
+## Features
+
+- Convert kilometers to miles
+- Clean and modern user interface
+- Real-time conversion
+
+## Requirements
+
+- Python 3.x
+- ttkbootstrap
+
+## Installation
+
+1. Clone this repository:
    ```
-   python Distance_Converter.py
+   git clone https://github.com/yourusername/Distance-Converter.git
+   ```
+2. Install the required packages:
+   ```
+   pip install ttkbootstrap
    ```
 
-   Enter a value in kilometers and click "Convert" to see the equivalent distance in miles.
+## Usage
 
-   ## Contributing
+Run the script:
+```
+python Distance_Converter.py
+```
 
-   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Enter a value in kilometers and click "Convert" to see the equivalent distance in miles.
 
-   ## License
+## Contributing
 
-   [MIT](https://choosealicense.com/licenses/mit/)
-   
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
